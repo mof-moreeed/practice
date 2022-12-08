@@ -5,6 +5,8 @@ public class GitPractice {
 		// TODO Auto-generated method stub
 		System.out.println("this is a test");
 		System.out.println("this is a test of GIT remote");
+		System.out.println("this is a test of GIT remote pull");
+
 
 	}
 
